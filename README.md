@@ -120,8 +120,7 @@ prior are what keep a frozen page from being read as a forecast of no
 movement or of explosive movement.
 
 The full per-trophy table (day-7 median / ceiling / logit sd) is in
-`main.py`; `trophies-reference.json` is the trophy list with the live
-32 h rates attached for reference. Representative values: Ch1 65/90/0.35,
+`main.py`. Representative values: Ch1 65/90/0.35,
 Ch2 45/64/0.40, Ch3 28/50/0.45, Ch4 18/41/0.45, final 12/34/0.50,
 fishing 28/45/0.40, 100% 0.20/1.67/0.90, platinum 0.08/0.44/1.00,
 250 stunts 0.05/0.80/1.10, 100 vehicles 10/45/0.60.
